@@ -46,7 +46,7 @@ namespace DoorOpening
 
         }
 
-        public void test()
+        public void WriteResult()
         {
             string output = "";
             for (int i = 0; i < DoorList.Count; i++)

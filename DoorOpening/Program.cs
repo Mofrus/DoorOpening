@@ -14,7 +14,7 @@ namespace DoorOpening
             
             _doorController.initDoorList();
             _doorController.DoorStateChange();
-            _doorController.test();
+            _doorController.WriteResult();
 
             Console.ReadKey();
         }
