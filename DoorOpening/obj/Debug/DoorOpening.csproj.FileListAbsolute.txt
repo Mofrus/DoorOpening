@@ -1,0 +1,6 @@
+D:\Škola\Druhý ročník\DoorOpening\DoorOpening\bin\Debug\DoorOpening.exe
+D:\Škola\Druhý ročník\DoorOpening\DoorOpening\bin\Debug\DoorOpening.pdb
+D:\Škola\Druhý ročník\DoorOpening\DoorOpening\obj\Debug\DoorOpening.csproj.AssemblyReference.cache
+D:\Škola\Druhý ročník\DoorOpening\DoorOpening\obj\Debug\DoorOpening.csproj.CoreCompileInputs.cache
+D:\Škola\Druhý ročník\DoorOpening\DoorOpening\obj\Debug\DoorOpening.exe
+D:\Škola\Druhý ročník\DoorOpening\DoorOpening\obj\Debug\DoorOpening.pdb
