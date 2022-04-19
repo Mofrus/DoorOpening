@@ -21,9 +21,7 @@ namespace DoorOpening
         
         public static void Main(string[] args)
         {
-
             new Program().init(args);
-            
         }
     }
 }
